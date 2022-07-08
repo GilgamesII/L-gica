@@ -1,0 +1,11 @@
+1. Monte uma matriz nas dimensões 4 x 5 e imprima a soma das linhas e colunas.
+
+2. Monte uma matriz para quando o usuário informar um número correspondente a um mês, imprima o número, o nome do mês indicado em português, a abreviatura e o
+nome do mês em inglês.
+Por exemplo, o usuário digita o número 4 e o programa mostra:
+4 → Abril, Abr, April.
+
+3. Leia os números de matrículas, as médias finais e as porcentagens de frequência de 10 alunos.
+Armazene esses dados em uma matriz e, na última linha, registre o número de alunos lidos, a média das médias finais e das porcentagens de frequência.
+
+4. Monte a matriz A (5 x 6), composta de números gerados aleatoriamente, e a matriz B, inversa de A, ou seja, os valores contidos nas linhas de A passam a ser os valores das colunas de B.
